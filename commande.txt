@@ -1,0 +1,27 @@
+npm install next react react-dom
+#Pour lancer 
+npm run dev
+
+npm install jsonwebtoken
+npm install --save-dev @types/jsonwebtoken
+
+npm install @radix-ui/react-dialog
+
+
+npm install @emailjs/browser
+
+#Commit samedi 31 janvier 2026
+
+npm install @react-pdf/renderer
+
+#pour installer axios
+npm install axios
+
+# Pour tout mettre installer 
+npm install --legacy-peer-deps
+
+#Pour installer toast
+npm install react-hot-toast
+
+#Pour installer framer motion
+npm install framer-motion

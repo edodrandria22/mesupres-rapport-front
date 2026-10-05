@@ -276,7 +276,7 @@ export const SupervisionTable: React.FC<SupervisionTableProps> = ({
                                                         {localValidatingId === rapport.id ? (
                                                             <div className="w-3 h-3 border-2 border-white border-t-transparent rounded-full animate-spin" />
                                                         ) : (
-                                                            <span>{isValide ? " 1" : " 1"}</span>
+                                                            <span>{isValide ? "" : ""}</span>
                                                         )}
                                                         {isValide ? "Annuler" : "Valider"}
                                                     </button>

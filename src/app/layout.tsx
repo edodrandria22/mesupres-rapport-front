@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 export const metadata: Metadata = {
-  title: "Mesupres",
-  description: "Rapport - Mesuspres",
+  title: "Tatitra Mesupres",
+  description: "Rapport - Mesupres",
 };
 
 // ... vos imports
